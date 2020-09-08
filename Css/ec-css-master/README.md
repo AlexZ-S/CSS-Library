@@ -10,5 +10,5 @@
 ## 使用方法
 直接引入.css文件即可。详细栗子可查看demo-hover.html和demo-animate.html
 
-# LICENSE
-MIT
+# 作者
+https://github.com/chenhuiYj
